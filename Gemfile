@@ -10,6 +10,7 @@ group :development, :test do
   gem 'mysql2'
   gem 'rspec-rails', '2.8.1'
   gem 'annotate', '~> 2.4.1.beta'
+  gem 'factory_girl_rails', '1.4.0'
 end
 
 # Gems used only for assets and not required
